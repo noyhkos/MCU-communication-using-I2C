@@ -1,4 +1,4 @@
-# Air Mouse Project
+# I2C on MCU
 [MCU 간의 I2C 통신] 
 
 ## 하드웨어 스펙
